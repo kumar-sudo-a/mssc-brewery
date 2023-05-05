@@ -1,2 +1,2 @@
 # mssc-brewery
-Brewery Object Provider
+Brewery Object Provider, Brewery Client
